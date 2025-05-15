@@ -1,25 +1,29 @@
-import React, { useState } from "react";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import Header from "./components/Header";
-import ProductList from "./components/ProductList";
-import CartModal from "./components/CartModal";
-import { CartProvider } from "./context/CartContext";
+import MainLayout from "./layouts/MainLayout";
 
-export default function App() {
-  const [lang, setLang] = useState("uz");
-  const [isModalOpen, setIsModalOpen] = useState(false);
 
-  return (
-    <CartProvider>
-      <div className="min-h-screen bg-gray-50">
-        <Header
-          lang={lang}
-          setLang={setLang}
-          openCart={() => setIsModalOpen(true)}
-        />
-        <ProductList lang={lang} />
-        {isModalOpen && <CartModal closeModal={() => setIsModalOpen(false)} />}
-      </div>
-    </CartProvider>
-  );
+import Home from "./pages/Home";
+import Contact from "./pages/Contact";
+
+function App() {
+  const routes = createBrowserRouter([
+    {
+      path: "/",
+      element: <MainLayout />,
+      children: [
+        {
+          index: true,
+          element: <Home />,
+        },
+        {
+          path: "/contact",
+          element: <Contact />,
+        },
+      ],
+    },
+  ]);
+  return <RouterProvider router={routes} />;
 }
+
+export default App;

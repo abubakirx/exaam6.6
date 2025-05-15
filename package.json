@@ -1,38 +1,39 @@
 {
-  "name": "6-12",
+  "name": "imtihon-3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@radix-ui/react-progress": "^1.1.6",
-    "@radix-ui/react-select": "^2.2.4",
+    "@radix-ui/react-dialog": "^1.1.13",
     "@radix-ui/react-slot": "^1.2.2",
+    "@shadcn/ui": "^0.0.4",
     "@tailwindcss/vite": "^4.1.6",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "i18next": "^25.1.2",
-    "json-server": "^1.0.0-beta.3",
     "lucide-react": "^0.510.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-hot-toast": "^2.5.2",
-    "react-i18next": "^15.5.1",
-    "tailwind-merge": "^3.3.0",
-    "tailwindcss": "^4.1.6"
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.6.0",
+    "tailwind-merge": "^3.3.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.22.0",
     "@types/node": "^22.15.18",
-    "@types/react": "^19.0.10",
-    "@types/react-dom": "^19.0.4",
-    "@vitejs/plugin-react-swc": "^3.8.0",
-    "globals": "^16.0.0",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.4.1",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "autoprefixer": "^10.4.21",
+    "globals": "^15.14.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6",
     "tw-animate-css": "^1.2.9",
-    "vite": "^6.3.1"
+    "vite": "^6.1.0"
   }
 }
