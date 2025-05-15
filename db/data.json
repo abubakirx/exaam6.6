@@ -1,0 +1,732 @@
+{
+  "en": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S22",
+      "description": {
+        "en": "A flagship smartphone with an immersive display and top-notch performance.",
+        "uz": "Zamonaviy ekranli va yuqori unumli flagman smartfon.",
+        "ru": "Флагманский смартфон с погружающим дисплеем и высокой производительностью."
+      },
+      "price": 799.99,
+      "brand": "Samsung",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14",
+      "description": "The latest iPhone with cutting-edge technology and a powerful camera.",
+      "price": 999.99,
+      "brand": "Apple",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Redmi Note 12",
+      "description": "A budget-friendly smartphone with impressive features and a sleek design.",
+      "price": 249.99,
+      "brand": "Redmi",
+      "category": "Electronics"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "description": "Noise-canceling wireless headphones with premium sound.",
+      "price": 279.39,
+      "brand": "Sony",
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R50",
+      "description": "A compact mirrorless camera with 4K video support.",
+      "price": 233.24,
+      "brand": "Canon",
+      "category": "Photography"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Smart Band 8",
+      "description": "A smart fitness tracker with heart rate monitor.",
+      "price": 733.66,
+      "brand": "Xiaomi",
+      "category": "Wearables"
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Smart Band 8",
+      "description": "A smart fitness tracker with heart rate monitor.",
+      "price": 966.75,
+      "brand": "Xiaomi",
+      "category": "Wearables"
+    },
+    {
+      "id": 8,
+      "name": "Google Pixel 7",
+      "description": "Pure Android experience with excellent camera.",
+      "price": 512.48,
+      "brand": "Google",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "name": "HP Pavilion 15",
+      "description": "A versatile laptop for work and play.",
+      "price": 324.1,
+      "brand": "HP",
+      "category": "Electronics"
+    },
+    {
+      "id": 10,
+      "name": "Google Pixel 7",
+      "description": "Pure Android experience with excellent camera.",
+      "price": 193.54,
+      "brand": "Google",
+      "category": "Electronics"
+    },
+    {
+      "id": 11,
+      "name": "Canon EOS R50",
+      "description": "A compact mirrorless camera with 4K video support.",
+      "price": 429.32,
+      "brand": "Canon",
+      "category": "Photography"
+    },
+    {
+      "id": 12,
+      "name": "Canon EOS R50",
+      "description": "A compact mirrorless camera with 4K video support.",
+      "price": 196.64,
+      "brand": "Canon",
+      "category": "Photography"
+    },
+    {
+      "id": 13,
+      "name": "Dyson V11 Vacuum",
+      "description": "A smart vacuum cleaner with powerful suction.",
+      "price": 667.95,
+      "brand": "Dyson",
+      "category": "Home"
+    },
+    {
+      "id": 14,
+      "name": "Canon EOS R50",
+      "description": "A compact mirrorless camera with 4K video support.",
+      "price": 337.94,
+      "brand": "Canon",
+      "category": "Photography"
+    },
+    {
+      "id": 15,
+      "name": "Asus ROG Phone 7",
+      "description": "Gaming phone with high refresh rate display.",
+      "price": 152.95,
+      "brand": "Asus",
+      "category": "Electronics"
+    },
+    {
+      "id": 16,
+      "name": "HP Pavilion 15",
+      "description": "A versatile laptop for work and play.",
+      "price": 774.1,
+      "brand": "HP",
+      "category": "Electronics"
+    },
+    {
+      "id": 17,
+      "name": "Xiaomi Smart Band 8",
+      "description": "A smart fitness tracker with heart rate monitor.",
+      "price": 301.2,
+      "brand": "Xiaomi",
+      "category": "Wearables"
+    },
+    {
+      "id": 18,
+      "name": "Google Pixel 7",
+      "description": "Pure Android experience with excellent camera.",
+      "price": 407.86,
+      "brand": "Google",
+      "category": "Electronics"
+    },
+    {
+      "id": 19,
+      "name": "HP Pavilion 15",
+      "description": "A versatile laptop for work and play.",
+      "price": 1399.95,
+      "brand": "HP",
+      "category": "Electronics"
+    },
+    {
+      "id": 20,
+      "name": "MacBook Air M2",
+      "description": "A lightweight and powerful laptop for professionals.",
+      "price": 125.83,
+      "brand": "Apple",
+      "category": "Electronics"
+    },
+    {
+      "id": 21,
+      "name": "LG OLED TV",
+      "description": "A stunning OLED TV with vibrant colors and deep blacks.",
+      "price": 952.04,
+      "brand": "LG",
+      "category": "Electronics"
+    },
+    {
+      "id": 22,
+      "name": "Canon EOS R50",
+      "description": "A compact mirrorless camera with 4K video support.",
+      "price": 1359.84,
+      "brand": "Canon",
+      "category": "Photography"
+    },
+    {
+      "id": 23,
+      "name": "LG OLED TV",
+      "description": "A stunning OLED TV with vibrant colors and deep blacks.",
+      "price": 1490.69,
+      "brand": "LG",
+      "category": "Electronics"
+    },
+    {
+      "id": 24,
+      "name": "LG OLED TV",
+      "description": "A stunning OLED TV with vibrant colors and deep blacks.",
+      "price": 1497.99,
+      "brand": "LG",
+      "category": "Electronics"
+    },
+    {
+      "id": 25,
+      "name": "Xiaomi Smart Band 8",
+      "description": "A smart fitness tracker with heart rate monitor.",
+      "price": 1115.7,
+      "brand": "Xiaomi",
+      "category": "Wearables"
+    },
+    {
+      "id": 26,
+      "name": "Google Pixel 7",
+      "description": "Pure Android experience with excellent camera.",
+      "price": 1114.11,
+      "brand": "Google",
+      "category": "Electronics"
+    },
+    {
+      "id": 27,
+      "name": "Xiaomi Smart Band 8",
+      "description": "A smart fitness tracker with heart rate monitor.",
+      "price": 856.45,
+      "brand": "Xiaomi",
+      "category": "Wearables"
+    },
+    {
+      "id": 28,
+      "name": "HP Pavilion 15",
+      "description": "A versatile laptop for work and play.",
+      "price": 107.14,
+      "brand": "HP",
+      "category": "Electronics"
+    },
+    {
+      "id": 29,
+      "name": "Google Pixel 7",
+      "description": "Pure Android experience with excellent camera.",
+      "price": 483.71,
+      "brand": "Google",
+      "category": "Electronics"
+    },
+    {
+      "id": 30,
+      "name": "HP Pavilion 15",
+      "description": "A versatile laptop for work and play.",
+      "price": 328.5,
+      "brand": "HP",
+      "category": "Electronics"
+    }
+  ],
+  "uz": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S22",
+      "description": "Zamonaviy ekranli va yuqori unumli flagman smartfon.",
+      "price": 799.99,
+      "brand": "Samsung",
+      "category": "Elektronika"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14",
+      "description": "Eng so‘nggi iPhone ilg‘or texnologiyalar va kuchli kamera bilan.",
+      "price": 999.99,
+      "brand": "Apple",
+      "category": "Elektronika"
+    },
+    {
+      "id": 3,
+      "name": "Redmi Note 12",
+      "description": "Hamyonbop, ammo imkoniyatlarga boy va chiroyli dizaynga ega smartfon.",
+      "price": 249.99,
+      "brand": "Redmi",
+      "category": "Elektronika"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "description": "Shovqinni bostiruvchi, yuqori sifatli tovushli naushnik.",
+      "price": 279.39,
+      "brand": "Sony",
+      "category": "Elektronika"
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R50",
+      "description": "4K video qo‘llab-quvvatlovchi ixcham kamera.",
+      "price": 233.24,
+      "brand": "Canon",
+      "category": "Foto"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
+      "price": 733.66,
+      "brand": "Xiaomi",
+      "category": "Aqlli gadjetlar"
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
+      "price": 966.75,
+      "brand": "Xiaomi",
+      "category": "Aqlli gadjetlar"
+    },
+    {
+      "id": 8,
+      "name": "Google Pixel 7",
+      "description": "Ajoyib kamerali sof Android tajribasi.",
+      "price": 512.48,
+      "brand": "Google",
+      "category": "Elektronika"
+    },
+    {
+      "id": 9,
+      "name": "HP Pavilion 15",
+      "description": "Ish va o'yin uchun universal noutbuk.",
+      "price": 324.1,
+      "brand": "HP",
+      "category": "Elektronika"
+    },
+    {
+      "id": 10,
+      "name": "Google Pixel 7",
+      "description": "Ajoyib kamerali sof Android tajribasi.",
+      "price": 193.54,
+      "brand": "Google",
+      "category": "Elektronika"
+    },
+    {
+      "id": 11,
+      "name": "Canon EOS R50",
+      "description": "4K video qo‘llab-quvvatlovchi ixcham kamera.",
+      "price": 429.32,
+      "brand": "Canon",
+      "category": "Foto"
+    },
+    {
+      "id": 12,
+      "name": "Canon EOS R50",
+      "description": "4K video qo‘llab-quvvatlovchi ixcham kamera.",
+      "price": 196.64,
+      "brand": "Canon",
+      "category": "Foto"
+    },
+    {
+      "id": 13,
+      "name": "Dyson V11 Vacuum",
+      "description": "Kuchli so‘rish quvvatiga ega aqlli changyutgich.",
+      "price": 667.95,
+      "brand": "Dyson",
+      "category": "Uy uchun"
+    },
+    {
+      "id": 14,
+      "name": "Canon EOS R50",
+      "description": "4K video qo‘llab-quvvatlovchi ixcham kamera.",
+      "price": 337.94,
+      "brand": "Canon",
+      "category": "Foto"
+    },
+    {
+      "id": 15,
+      "name": "Asus ROG Phone 7",
+      "description": "Yuqori yangilanish tezligiga ega o‘yin uchun telefon.",
+      "price": 152.95,
+      "brand": "Asus",
+      "category": "Elektronika"
+    },
+    {
+      "id": 16,
+      "name": "HP Pavilion 15",
+      "description": "Ish va o'yin uchun universal noutbuk.",
+      "price": 774.1,
+      "brand": "HP",
+      "category": "Elektronika"
+    },
+    {
+      "id": 17,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
+      "price": 301.2,
+      "brand": "Xiaomi",
+      "category": "Aqlli gadjetlar"
+    },
+    {
+      "id": 18,
+      "name": "Google Pixel 7",
+      "description": "Ajoyib kamerali sof Android tajribasi.",
+      "price": 407.86,
+      "brand": "Google",
+      "category": "Elektronika"
+    },
+    {
+      "id": 19,
+      "name": "HP Pavilion 15",
+      "description": "Ish va o'yin uchun universal noutbuk.",
+      "price": 1399.95,
+      "brand": "HP",
+      "category": "Elektronika"
+    },
+    {
+      "id": 20,
+      "name": "MacBook Air M2",
+      "description": "Yengil va kuchli professional noutbuk.",
+      "price": 125.83,
+      "brand": "Apple",
+      "category": "Elektronika"
+    },
+    {
+      "id": 21,
+      "name": "LG OLED TV",
+      "description": "Ranglari yorqin va qorasi chuqur bo‘lgan OLED televizor.",
+      "price": 952.04,
+      "brand": "LG",
+      "category": "Elektronika"
+    },
+    {
+      "id": 22,
+      "name": "Canon EOS R50",
+      "description": "4K video qo‘llab-quvvatlovchi ixcham kamera.",
+      "price": 1359.84,
+      "brand": "Canon",
+      "category": "Foto"
+    },
+    {
+      "id": 23,
+      "name": "LG OLED TV",
+      "description": "Ranglari yorqin va qorasi chuqur bo‘lgan OLED televizor.",
+      "price": 1490.69,
+      "brand": "LG",
+      "category": "Elektronika"
+    },
+    {
+      "id": 24,
+      "name": "LG OLED TV",
+      "description": "Ranglari yorqin va qorasi chuqur bo‘lgan OLED televizor.",
+      "price": 1497.99,
+      "brand": "LG",
+      "category": "Elektronika"
+    },
+    {
+      "id": 25,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
+      "price": 1115.7,
+      "brand": "Xiaomi",
+      "category": "Aqlli gadjetlar"
+    },
+    {
+      "id": 26,
+      "name": "Google Pixel 7",
+      "description": "Ajoyib kamerali sof Android tajribasi.",
+      "price": 1114.11,
+      "brand": "Google",
+      "category": "Elektronika"
+    },
+    {
+      "id": 27,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
+      "price": 856.45,
+      "brand": "Xiaomi",
+      "category": "Aqlli gadjetlar"
+    },
+    {
+      "id": 28,
+      "name": "HP Pavilion 15",
+      "description": "Ish va o'yin uchun universal noutbuk.",
+      "price": 107.14,
+      "brand": "HP",
+      "category": "Elektronika"
+    },
+    {
+      "id": 29,
+      "name": "Google Pixel 7",
+      "description": "Ajoyib kamerali sof Android tajribasi.",
+      "price": 483.71,
+      "brand": "Google",
+      "category": "Elektronika"
+    },
+    {
+      "id": 30,
+      "name": "HP Pavilion 15",
+      "description": "Ish va o'yin uchun universal noutbuk.",
+      "price": 328.5,
+      "brand": "HP",
+      "category": "Elektronika"
+    }
+  ],
+  "ru": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S22",
+      "description": "Флагманский смартфон с погружающим дисплеем и высокой производительностью.",
+      "price": 799.99,
+      "brand": "Samsung",
+      "category": "Электроника"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14",
+      "description": "Последний iPhone с передовыми технологиями и мощной камерой.",
+      "price": 999.99,
+      "brand": "Apple",
+      "category": "Электроника"
+    },
+    {
+      "id": 3,
+      "name": "Redmi Note 12",
+      "description": "Бюджетный смартфон с впечатляющими функциями и стильным дизайном.",
+      "price": 249.99,
+      "brand": "Redmi",
+      "category": "Электроника"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "description": "Беспроводные наушники с шумоподавлением и премиальным звуком.",
+      "price": 279.39,
+      "brand": "Sony",
+      "category": "Электроника"
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R50",
+      "description": "Компактная беззеркальная камера с поддержкой 4K-видео.",
+      "price": 233.24,
+      "brand": "Canon",
+      "category": "Фототехника"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
+      "price": 733.66,
+      "brand": "Xiaomi",
+      "category": "Умные устройства"
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
+      "price": 966.75,
+      "brand": "Xiaomi",
+      "category": "Умные устройства"
+    },
+    {
+      "id": 8,
+      "name": "Google Pixel 7",
+      "description": "Чистый Android с отличной камерой.",
+      "price": 512.48,
+      "brand": "Google",
+      "category": "Электроника"
+    },
+    {
+      "id": 9,
+      "name": "HP Pavilion 15",
+      "description": "Универсальный ноутбук для работы и игр.",
+      "price": 324.1,
+      "brand": "HP",
+      "category": "Электроника"
+    },
+    {
+      "id": 10,
+      "name": "Google Pixel 7",
+      "description": "Чистый Android с отличной камерой.",
+      "price": 193.54,
+      "brand": "Google",
+      "category": "Электроника"
+    },
+    {
+      "id": 11,
+      "name": "Canon EOS R50",
+      "description": "Компактная беззеркальная камера с поддержкой 4K-видео.",
+      "price": 429.32,
+      "brand": "Canon",
+      "category": "Фототехника"
+    },
+    {
+      "id": 12,
+      "name": "Canon EOS R50",
+      "description": "Компактная беззеркальная камера с поддержкой 4K-видео.",
+      "price": 196.64,
+      "brand": "Canon",
+      "category": "Фототехника"
+    },
+    {
+      "id": 13,
+      "name": "Dyson V11 Vacuum",
+      "description": "Умный пылесос с мощным всасыванием.",
+      "price": 667.95,
+      "brand": "Dyson",
+      "category": "Для дома"
+    },
+    {
+      "id": 14,
+      "name": "Canon EOS R50",
+      "description": "Компактная беззеркальная камера с поддержкой 4K-видео.",
+      "price": 337.94,
+      "brand": "Canon",
+      "category": "Фототехника"
+    },
+    {
+      "id": 15,
+      "name": "Asus ROG Phone 7",
+      "description": "Игровой телефон с дисплеем с высокой частотой обновления.",
+      "price": 152.95,
+      "brand": "Asus",
+      "category": "Электроника"
+    },
+    {
+      "id": 16,
+      "name": "HP Pavilion 15",
+      "description": "Универсальный ноутбук для работы и игр.",
+      "price": 774.1,
+      "brand": "HP",
+      "category": "Электроника"
+    },
+    {
+      "id": 17,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
+      "price": 301.2,
+      "brand": "Xiaomi",
+      "category": "Умные устройства"
+    },
+    {
+      "id": 18,
+      "name": "Google Pixel 7",
+      "description": "Чистый Android с отличной камерой.",
+      "price": 407.86,
+      "brand": "Google",
+      "category": "Электроника"
+    },
+    {
+      "id": 19,
+      "name": "HP Pavilion 15",
+      "description": "Универсальный ноутбук для работы и игр.",
+      "price": 1399.95,
+      "brand": "HP",
+      "category": "Электроника"
+    },
+    {
+      "id": 20,
+      "name": "MacBook Air M2",
+      "description": "Легкий и мощный ноутбук для профессионалов.",
+      "price": 125.83,
+      "brand": "Apple",
+      "category": "Электроника"
+    },
+    {
+      "id": 21,
+      "name": "LG OLED TV",
+      "description": "Потрясающий OLED-телевизор с яркими цветами и глубоким черным.",
+      "price": 952.04,
+      "brand": "LG",
+      "category": "Электроника"
+    },
+    {
+      "id": 22,
+      "name": "Canon EOS R50",
+      "description": "Компактная беззеркальная камера с поддержкой 4K-видео.",
+      "price": 1359.84,
+      "brand": "Canon",
+      "category": "Фототехника"
+    },
+    {
+      "id": 23,
+      "name": "LG OLED TV",
+      "description": "Потрясающий OLED-телевизор с яркими цветами и глубоким черным.",
+      "price": 1490.69,
+      "brand": "LG",
+      "category": "Электроника"
+    },
+    {
+      "id": 24,
+      "name": "LG OLED TV",
+      "description": "Потрясающий OLED-телевизор с яркими цветами и глубоким черным.",
+      "price": 1497.99,
+      "brand": "LG",
+      "category": "Электроника"
+    },
+    {
+      "id": 25,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
+      "price": 1115.7,
+      "brand": "Xiaomi",
+      "category": "Умные устройства"
+    },
+    {
+      "id": 26,
+      "name": "Google Pixel 7",
+      "description": "Чистый Android с отличной камерой.",
+      "price": 1114.11,
+      "brand": "Google",
+      "category": "Электроника"
+    },
+    {
+      "id": 27,
+      "name": "Xiaomi Smart Band 8",
+      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
+      "price": 856.45,
+      "brand": "Xiaomi",
+      "category": "Умные устройства"
+    },
+    {
+      "id": 28,
+      "name": "HP Pavilion 15",
+      "description": "Универсальный ноутбук для работы и игр.",
+      "price": 107.14,
+      "brand": "HP",
+      "category": "Электроника"
+    },
+    {
+      "id": 29,
+      "name": "Google Pixel 7",
+      "description": "Чистый Android с отличной камерой.",
+      "price": 483.71,
+      "brand": "Google",
+      "category": "Электроника"
+    },
+    {
+      "id": 30,
+      "name": "HP Pavilion 15",
+      "description": "Универсальный ноутбук для работы и игр.",
+      "price": 328.5,
+      "brand": "HP",
+      "category": "Электроника"
+    }
+  ]
+}
